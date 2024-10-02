@@ -83,13 +83,13 @@
 
   <div>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yyezzzy&layout=donut&show_icons=true&theme=dracula&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yyezzzy&layout=donut&show_icons=true&theme=dracula&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
   </a>  
   <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api?username=yyezzzy&show_icons=true&hide_border=true&theme=dracula" />
+      <img src="https://github-readme-stats.vercel.app/api?username=yyezzzy&show_icons=true&hide_border=true&theme=dracula" width=56% />
   </a>
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yyezzzy&bg_color=282a36&color=FFB6C1&title_color=ffeacc&line=ADD8E6&point=ff95801a&area=true&area_color=ADD8E6&hide_border=true&grid=false" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yyezzzy&bg_color=282a36&color=FFB6C1&title_color=ffeacc&line=ADD8E6&point=ff95801a&area=true&area_color=ADD8E6&hide_border=true&grid=false" width=94% />
   </a>
   </div>
 </div>
