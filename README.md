@@ -2,10 +2,10 @@
 <div align="center">
   <section>
     <header>
-       <img src="https://capsule-render.vercel.app/api?type=transparent&height=137&color=gradient&text=yezzy's%20github&textBg=false&section=header&reversal=false&fontSize=40&fontAlign=50&fontAlignY=50&animation=twinkling&descAlign=50&descAlignY=60" />
-      <h1>
+       <img src="https://capsule-render.vercel.app/api?type=transparent&height=90&color=gradient&text=yezzy's%20github&textBg=false&section=header&reversal=false&fontSize=40&fontAlign=50&fontAlignY=50&animation=twinkling&descAlign=50&descAlignY=60" />
+      <h3>
           🌟 Welcome ! 🌟
-      </h1>
+      </h3>
     </header>
   </section>
 
@@ -22,6 +22,23 @@
   </span>
     </summary>
   </details>
+  
+  <div>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yyezzzy&layout=donut&show_icons=true&theme=dracula&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
+  </a>  
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api?username=yyezzzy&show_icons=true&hide_border=true&theme=dracula" width=56% />
+  </a>
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yyezzzy&bg_color=282a36&color=FFB6C1&title_color=ffeacc&line=ADD8E6&point=ff95801a&area=true&area_color=ADD8E6&hide_border=true&grid=false" width=94% />
+  </a>
+  </div>
+</div>
+
+
+ <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFFAB0,10:F4CFDF,30:D6EFED,75:BFACE0,100:F7ECDE&height=40&section=footer&text=&fontSize=0" width="100%"/>
+
 <main>
   <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
@@ -72,19 +89,3 @@
 <br>
 </main>
 
-
-  <div>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yyezzzy&layout=donut&show_icons=true&theme=dracula&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
-  </a>  
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api?username=yyezzzy&show_icons=true&hide_border=true&theme=dracula" width=56% />
-  </a>
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yyezzzy&bg_color=282a36&color=FFB6C1&title_color=ffeacc&line=ADD8E6&point=ff95801a&area=true&area_color=ADD8E6&hide_border=true&grid=false" width=94% />
-  </a>
-  </div>
-</div>
-
-
- <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFFAB0,10:F4CFDF,30:D6EFED,75:BFACE0,100:F7ECDE&height=40&section=footer&text=&fontSize=0" width="100%"/>
