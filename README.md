@@ -12,25 +12,20 @@
   <summary>About Me</summary>
   <span>
     <a href="https://www.instagram.com/yyezzzy/">
-      <img src="https://img.shields.io/badge/Instagram-ff69b4?style=plastic&logo=Instagram&logoColor=white"/>
-    </a>
+      <img src="https://img.shields.io/badge/Instagram-ff69b4?style=plastic&logo=Instagram&logoColor=white"/></a>
     <a href="mailto:t47047877@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=plastic&logo=gmail&logoColor=white"/>
-  </a>
+      <img src="https://img.shields.io/badge/Email-D14836?style=plastic&logo=gmail&logoColor=white"/></a>
   </span>
     </summary>
   </details>
   
   <div>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yyezzzy&layout=donut&show_icons=true&hide=html&theme=dracula&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
-  </a>  
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yyezzzy&layout=donut&show_icons=true&hide=html&theme=dracula&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% /></a>  
   <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api?username=yyezzzy&show_icons=true&hide_border=true&theme=dracula" width=56% />
-  </a>
+      <img src="https://github-readme-stats.vercel.app/api?username=yyezzzy&show_icons=true&hide_border=true&theme=dracula" width=56% /></a>
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yyezzzy&bg_color=282a36&color=FFB6C1&title_color=ffeacc&line=ADD8E6&point=ff95801a&area=true&area_color=ADD8E6&hide_border=true&grid=false" width=94% />
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yyezzzy&bg_color=282a36&color=FFB6C1&title_color=ffeacc&line=ADD8E6&point=ff95801a&area=true&area_color=ADD8E6&hide_border=true&grid=false" width=94% /></a>
   </div>
 </div>
 
@@ -77,11 +72,9 @@
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
   <a href="https://yyezzzy.tistory.com/">
-    <img src="https://img.shields.io/badge/Tistory-white?style=for-the-badge&logo=Tistory&logoColor=000000"/>
-  </a>
+    <img src="https://img.shields.io/badge/Tistory-white?style=for-the-badge&logo=Tistory&logoColor=000000"/></a>
   <a href="mailto:t47047877@gmail.com">
-      <img src="https://img.shields.io/badge/yeji0729@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+      <img src="https://img.shields.io/badge/yeji0729@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </div>
 
 <br>
